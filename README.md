@@ -1,5 +1,5 @@
 <h1 align="center">Hi , 👋 I'm Motaz Ramadan</h1>
-<h3 align="center">Full-Stack developer from Egypt</h3>
+<h3 align="center">Software Engineer <br> (Reactjs, Django) <br> Co-Founder of FUNCTO©</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=motazramadan8&label=Profile%20views&color=0e75b6&style=flat" alt="motazramadan8" /> </p>
 
