@@ -1,6 +1,6 @@
-<!-- <div align="center">
-  <img src="https://user-images.githubusercontent.com/your-banner-image.png" alt="Welcome Banner" width="100%"/>
-</div> -->
+<div align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" alt="Welcome Banner" width="100%"/>
+</div> 
 
 # 👋 Welcome to My GitHub World! 🚀
 
@@ -17,7 +17,7 @@ I'm **Motaz Ramadan**, a passionate **Software Engineer**, **AI Enthusiast**, an
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" alt="Skills Animation" width="70%"/>
+  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Skills Animation" width="70%"/>
 </div>
 
 ## 🛠️ My Stack:
