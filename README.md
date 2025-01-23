@@ -54,7 +54,7 @@ I'm **Motaz Ramadan**, a passionate **Software Engineer**, **AI Enthusiast**, an
 ## 🌐 Let's Connect:
 
 🌟 **Website**: [motaz.vercel.app](https://motaz.vercel.app)  
-💼 **LinkedIn**: [linkedin.com/in/motaz-ramadan-212b88263/](https://www.linkedin.com/in/motaz-ramadan-212b88263/)  
+💼 **LinkedIn**: [https://www.linkedin.com/in/motaz-ramadan/](https://www.linkedin.com/in/motaz-ramadan-212b88263/)  
 📧 **Email**: [motaz.ramadan.work@gmail.com](mailto:motaz.ramadan.work@gmail.com)
 
 ---
