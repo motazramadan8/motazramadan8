@@ -33,7 +33,7 @@ I'm **Motaz Ramadan**, a passionate **Software Engineer**, **AI Enthusiast**, an
 
 ## 🌟 Featured Projects:
 
-### 🖥️ **[Deal CRM](https://github.com/your-project-link)**
+### 🖥️ **[Deal CRM](https://www.dealcrm.net)**
 
 **Description**: A CRM project aims to implement a system for managing customer interactions to enhance customer relationships, improve sales, and drive business growth.  
 **Tech Stack**: React.js, Typescript, Tailwind CSS, Django, PostgreSQL, Celery, Docker
